@@ -6,9 +6,11 @@ This beginner-friendly project is a simple React-based clone of the Udemy course
 ## 📸 Preview
 
 ![Homepage Screenshot](https://github.com/Lokistark/Udemy-Clone/blob/main/Screenshot%202025-11-06%20122018.png)
+
   
 
 ## 🚀 Features
+
 
 - 🧩 Multiple layout components (Bestfit, Mostpop, Saleimg, etc.)
 - 🧭 Dual navigation bars (Navbar, Navbar2)
@@ -22,16 +24,41 @@ This beginner-friendly project is a simple React-based clone of the Udemy course
 ## 📁 Project Structure
 
 
-reactpack/ ├── src/ │   ├── components/ │   │   ├── App.js │   │   ├── Bestfit.js │   │   ├── Bestfit2.js │   │   ├── Footer.js │   │   ├── Mostpop.js │   │   ├── Navbar.js │   │   ├── Navbar2.js │   │   ├── Saleimg.js │   │   └── Topics.js │   └── index.js ├── Udemy-Clone/ │   ├── images/ │   └── index.html ├── style.css └── package.json
+
+| Folder/File        | Description                                |
+|--------------------|--------------------------------------------|
+| `reactpack/src/`   | Main source folder for React components    |
+| `components/`      | Contains modular UI components             |
+| `App.js`           | Root component that renders the layout     |
+| `Bestfit.js`       | Featured course section                    |
+| `Bestfit2.js`      | Alternate featured layout                  |
+| `Footer.js`        | Bottom section with links/info             |
+| `Mostpop.js`       | Popular courses section                    |
+| `Navbar.js`        | Top navigation bar                         |
+| `Navbar2.js`       | Alternate navbar layout                    |
+| `Saleimg.js`       | Promotional image section                  |
+| `Topics.js`        | Category/topic listing                     |
+| `index.js`         | Entry point for React app                  |
+| `Udemy-Clone/`     | Static assets and HTML                     |
+| `images/`          | Course thumbnails and banners              |
+| `index.html`       | HTML file for mounting React app           |
+| `style.css`        | Global styling for layout and components   |
+| `package.json`     | Project dependencies and scripts           |
+
+
 
 
 ## 🛠️ Setup & Run
 
+
 '''bash
+
 npm install
+
 npm start
 
 Runs the app in development mode. Open http://localhost:3001 to view it in the browser.
+
 
 
 ## 🧪 Components Overview
