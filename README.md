@@ -1,6 +1,6 @@
 ## 📚 UDEMY-REACT
 
-# This beginner-friendly project is a simple React-based clone of the Udemy course listing website. It uses HTML for structure, CSS for styling, and React-based JavaScript (JSX) to build dynamic, reusable components. The layout is responsive and interactive, making it ideal for learning frontend development basics. All assets and code are organized for clarity and easy customization.
+This beginner-friendly project is a simple React-based clone of the Udemy course listing website. It uses HTML for structure, CSS for styling, and React-based JavaScript (JSX) to build dynamic, reusable components. The layout is responsive and interactive, making it ideal for learning frontend development basics. All assets and code are organized for clarity and easy customization.
 
 
 ## 📸 Preview
